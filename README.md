@@ -1,6 +1,6 @@
 ## Advanced Lane Finding
 
-<img src="output_images/Lines_detected.jpg" width="240" alt="Combined Image" />
+<img src="output_images/Lines detected.jpg" width="240" alt="Combined Image" />
 
 
 Overview:
